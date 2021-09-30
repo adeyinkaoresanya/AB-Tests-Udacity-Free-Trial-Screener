@@ -42,7 +42,7 @@ The datasets used are available [here](https://docs.google.com/spreadsheets/d/1M
 
 ## Tools/Libraries required
 
-* [Python 3.9](https://python.org) : Base programming language for development. The latest version of python.
+* [Python 3.9](https://python.org)
 * Numpy
 * Pandas
 * Scipy
@@ -51,6 +51,9 @@ The datasets used are available [here](https://docs.google.com/spreadsheets/d/1M
 
 
 ## **Significance of metrics under different confidence levels (using t-test results)**
+
+![alt text](https://github.com/adeyinkaoresanya/Zindi_DSN_2020_ExpressoChurnPrediction/blob/master/churn%20vs%20regularity.PNG "churn by regularity")
+![alt text](https://github.com/adeyinkaoresanya/Zindi_DSN_2020_ExpressoChurnPrediction/blob/master/churn%20vs%20regularity.PNG "churn by regularity")
 
 
 Conclusions about the significance of net conversion do not differ under the different confidence levels because the p-value, 0.593, is very large compared to the different levels of significance. This means that there is a 59.3% probability of any difference observed being completely random and not due to the change in the experiment.
